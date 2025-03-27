@@ -1,0 +1,56 @@
+[
+  {
+    "area": "web_development",
+    "topics": [
+      "html_css",
+      "javascript",
+      "php",
+      "data_bases"
+    ]
+  },
+  {
+    "area": "technologies",
+    "topics": [
+      "bitrix",
+      "linux",
+      "git"
+    ]
+  },
+  {
+    "area": "management",
+    "topics": [
+      "teamwork",
+      "initiative"
+    ]
+  },
+  {
+    "area": "business_processes",
+    "topics": [
+      "base_business_analysis",
+      "business_process_modeling",
+      "optimization_business_processes"
+    ]
+  },
+  {
+    "area": "requirements_collection",
+    "topics": [
+      "collecting_requirements",
+      "formalization_requirements",
+      "prioritization"
+    ]
+  },
+  {
+    "area": "data",
+    "topics": [
+      "data_interpretation",
+      "data_analysis"
+    ]
+  },
+  {
+    "area": "project_management",
+    "topics": [
+      "base_project_management",
+      "product_management"
+    ]
+  }
+]
